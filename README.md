@@ -39,7 +39,7 @@ Figure 02  Encoder 8 * 3
 2.Compile and run the program.*\
 3.Generate the RTL schematic and save the logic diagram.*\
 4.Create nodes for inputs and Outputs to generate the timing diagrams.*\
-5.For different input combinations generate the tiiming diagram.*\
+5.For different input combinations generate the tiiming diagram.\
 **PROGRAM**
 ```
 module EX_05(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
