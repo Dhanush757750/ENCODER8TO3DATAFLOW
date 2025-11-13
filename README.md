@@ -40,6 +40,10 @@ Figure 02  Encoder 8 * 3
 3.Generate the RTL schematic and save the logic diagram.*\
 4.Create nodes for inputs and Outputs to generate the timing diagrams.*\
 5.For different input combinations generate the tiiming diagram.\
+```
+Developed by:C Dhanush
+RegisterNumber:212224040066
+```
 **PROGRAM**
 ```
 module EX_05(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
@@ -50,7 +54,6 @@ assign a1=d2|d3|d6|d7;
 assign a2=d4|d5|d6|d7;
 endmodule
 ```
-Developed by: RegisterNumber:212224040066
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 <img width="1920" height="1200" alt="Screenshot 2025-09-16 144523" src="https://github.com/user-attachments/assets/41f2c439-247f-4f9a-b968-d736db725db0" />
